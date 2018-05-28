@@ -1,0 +1,11 @@
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\bin\Debug\netcoreapp2.0\GiphyAPIDemo.deps.json
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\bin\Debug\netcoreapp2.0\GiphyAPIDemo.runtimeconfig.json
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\bin\Debug\netcoreapp2.0\GiphyAPIDemo.runtimeconfig.dev.json
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\bin\Debug\netcoreapp2.0\GiphyAPIDemo.dll
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\obj\Debug\netcoreapp2.0\GiphyAPIDemo.csprojResolveAssemblyReference.cache
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\obj\Debug\netcoreapp2.0\GiphyAPIDemo.csproj.CoreCompileInputs.cache
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\obj\Debug\netcoreapp2.0\GiphyAPIDemo.AssemblyInfoInputs.cache
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\obj\Debug\netcoreapp2.0\GiphyAPIDemo.AssemblyInfo.cs
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\bin\Debug\netcoreapp2.0\GiphyAPIDemo.pdb
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\obj\Debug\netcoreapp2.0\GiphyAPIDemo.dll
+D:\HomeSpace\PROJECTS\GiphyAPIDemo\GiphyAPIDemo\GiphyAPIDemo\obj\Debug\netcoreapp2.0\GiphyAPIDemo.pdb
